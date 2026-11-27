@@ -48,11 +48,9 @@ Required-by:
 
 ## 5. 설치 및 실행 방법
 
-```bash
+cd ParkByeongmin/LinuxSystemMonitor
 pip install -r requirements.txt
 python main.py
-```
-
 Ctrl+C를 입력하여 프로그램을 종료할 수 있습니다.
 
 ## 6. 프로젝트 구조
